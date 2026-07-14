@@ -1,0 +1,9 @@
+.container{
+    background-color: aqua;
+}
+.col{
+    color: lightblue;
+}
+.carousel-inner img{
+    height: 600px;
+}
